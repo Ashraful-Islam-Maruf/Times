@@ -1,0 +1,16 @@
+ .box{
+   height: 240px;
+   width: 300px;
+   background-color: #C2C3CF85;
+   margin: auto;
+   text-align: center;
+ }
+.box h2{
+     position: relative;
+   top: 12px;
+
+  padding: 30px;
+}
+#time{
+  color: #C11111;
+}
